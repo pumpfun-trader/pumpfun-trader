@@ -2,14 +2,14 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Solana-Expert-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana Expert">
-  <img src="https://img.shields.io/badge/Crypto-Trading-FF6B35?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Crypto Trading">
   <img src="https://img.shields.io/badge/Pump.fun-Specialist-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white" alt="Pump.fun Specialist">
-  <img src="https://img.shields.io/badge/DeFi-Developer-FFD700?style=for-the-badge&logo=ethereum&logoColor=black" alt="DeFi Developer">
+  <img src="https://img.shields.io/badge/Copy-Trading-FF6B35?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Copy Trading">
+  <img src="https://img.shields.io/badge/Token-Scanner-FFD700?style=for-the-badge&logo=ethereum&logoColor=black" alt="Token Scanner">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=pumpfun-trader&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pumpfun-trader&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </div>
 
 ---
@@ -19,20 +19,20 @@
 ```javascript
 const cryptoExpert = {
   name: "Crypto Pump Expert",
-  role: "Solana Blockchain Developer",
-  specialties: ["Pump.fun Scanners", "Trading Bots", "DeFi Protocols"],
+  role: "Solana Trading Bot Developer",
+  specialties: ["Pump.fun Scanners", "Copy Trading Bots", "Token Analysis"],
   location: "Global",
-  passion: "Building innovative crypto solutions",
+  passion: "Building automated Solana trading solutions",
   
   skills: {
-    blockchain: ["Solana", "Web3", "Smart Contracts", "DeFi"],
-    languages: ["JavaScript", "TypeScript", "Node.js", "Python", "Rust"],
-    trading: ["Trading Bots", "Market Analysis", "Risk Management"],
-    tools: ["Express.js", "React", "WebSocket", "MongoDB", "Docker"]
+    blockchain: ["Solana", "Pump.fun", "Web3", "Smart Contracts"],
+    languages: ["JavaScript", "TypeScript", "Node.js", "Python"],
+    trading: ["Copy Trading", "Token Scanning", "Market Analysis", "Risk Management"],
+    tools: ["Express.js", "WebSocket", "Solana RPC", "Trading APIs"]
   },
   
-  currentFocus: "Real-time crypto pump monitoring and automated trading systems",
-  funFact: "I can spot a pump.fun opportunity faster than you can say 'HODL'! 🚀"
+  currentFocus: "Real-time pump.fun token monitoring and copy trading automation",
+  funFact: "I can identify profitable pump.fun opportunities in under 3 seconds! 🚀"
 };
 ```
 
@@ -63,39 +63,31 @@ const cryptoExpert = {
 
 ## 🚀 Featured Projects
 
-### 🔥 [Crypto Pump Scanner](https://github.com/yourusername/crypto-pump-scanner)
-> Real-time cryptocurrency pump scanner for Solana blockchain
+### 🔥 [Pump.fun Trading Bot](https://github.com/pumpfun-trader/pupm.fun-trading-bot)
+> Comprehensive suite of Solana trading tools including token scanner and copy trading bot
 
-- **Tech Stack:** Node.js, WebSocket, Solana RPC, Express.js
-- **Features:** Live monitoring, transaction tracking, instant notifications
+- **Tech Stack:** Node.js, TypeScript, WebSocket, Solana RPC, Express.js
+- **Features:** Real-time token monitoring, copy trading, automated strategies
 - **Status:** 🟢 Active Development
 
-```bash
-# Quick Start
-git clone https://github.com/yourusername/crypto-pump-scanner
-cd crypto-pump-scanner
-npm install
-node app/server.js
-```
+### 📊 [Token Scanner](https://github.com/pumpfun-trader/pupm.fun-trading-bot/tree/main/simple-scanner.js)
+> Real-time monitoring of new Pump.fun token listings with advanced analysis
 
-### 🤖 [Trading Bot Suite](https://github.com/yourusername/trading-bot-suite)
-> Advanced automated trading system with multiple strategies
-
-- **Tech Stack:** TypeScript, Web3, Trading APIs, Analytics
-- **Features:** Risk management, portfolio tracking, real-time analysis
+- **Tech Stack:** JavaScript, Solana RPC, WebSocket
+- **Features:** Token analysis, buy/sell recommendations, real-time monitoring
 - **Status:** 🟢 Production Ready
 
-### 📊 [DeFi Analytics Dashboard](https://github.com/yourusername/defi-dashboard)
-> Comprehensive dashboard for DeFi protocol analysis
+### 🔄 [Copy Trading Bot](https://github.com/pumpfun-trader/pupm.fun-trading-bot/tree/main/src)
+> Copy trades from target wallet addresses with configurable parameters
 
-- **Tech Stack:** React, Chart.js, API Integration, Real-time Data
-- **Features:** Yield farming opportunities, portfolio tracking, performance metrics
-- **Status:** 🟡 Beta Testing
+- **Tech Stack:** TypeScript, WebSocket, Solana SDK
+- **Features:** Real-time monitoring, configurable amounts, slippage control
+- **Status:** 🟢 Active Development
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pumpfun-trader&theme=radical&hide_border=true" alt="GitHub Streak">
 </div>
 
 ## 🏆 Achievements
@@ -120,10 +112,10 @@ Smart Contracts       ██████████           40%
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pumpfun-trader)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pumpfun_trader)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pumpfun-trader)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pumpfun.trader@example.com)
 
 </div>
 
